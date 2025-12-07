@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_my_toys"
+        android:icon="@android:drawable/ic_menu_gallery"
+        android:title="Мои игрушки" />
+    
+    <item
+        android:id="@+id/nav_shop"
+        android:icon="@android:drawable/ic_menu_search"
+        android:title="Магазин" />
+    
+    <item
+        android:id="@+id/nav_exchanges"
+        android:icon="@android:drawable/ic_menu_rotate"
+        android:title="Обмены" />
+    
+    <item
+        android:id="@+id/nav_profile"
+        android:icon="@android:drawable/ic_menu_myplaces"
+        android:title="Профиль" />
+</menu>
+

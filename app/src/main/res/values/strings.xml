@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Обмен игрушек</string>
+    
+    <!-- Заголовки фрагментов -->
+    <string name="title_my_toys">Мои игрушки</string>
+    <string name="title_shop">Магазин обмена</string>
+    <string name="title_exchanges">Мои обмены</string>
+    <string name="title_profile">Профиль</string>
+    <string name="title_exchange_detail">Детали обмена</string>
+    
+    <!-- Кнопки -->
+    <string name="btn_login">Вход</string>
+    <string name="btn_register">Регистрация</string>
+    <string name="btn_submit_login">Войти</string>
+    <string name="btn_logout">Выйти</string>
+    <string name="btn_confirm_exchange">Подтвердить обмен</string>
+    <string name="btn_cancel_exchange">Отменить обмен</string>
+    <string name="btn_propose_exchange">Предложить обмен</string>
+    <string name="btn_edit">Редактировать</string>
+    <string name="btn_delete">Удалить</string>
+    <string name="btn_toggle_status">Выставить на обмен</string>
+    
+    <!-- Сообщения -->
+    <string name="msg_no_exchanges">У вас пока нет обменов</string>
+</resources>
